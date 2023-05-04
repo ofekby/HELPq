@@ -19,7 +19,7 @@
         "SETTINGS_QUEUE_ENABLED": "true"
     },
     "addons": [
-        "mongolab"
+        "ormongo:2-wt"
     ],
     "buildpacks": [
         {
